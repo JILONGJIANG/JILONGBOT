@@ -2,16 +2,15 @@
 
 ## 调研报告
 
-| 日期 | 报告 | 模型 |
+| 日期 | 文件 | 说明 |
 |---|---|---|
-| 2026-09 | [对 Draft v1.1 报告的核对意见](reports/2026-09_v1.1报告核对意见.md) | — |
-| 2026-09 | [Montgat 别墅社区"光伏 + 储能 + 算力"持有型项目调研分析与实施方案（西班牙版）](reports/2026-09_Montgat别墅光储算力项目调研报告.md) | `reports/models/model_es.py`（欧元，单栋、算力资产、10 套社区） |
+| 2026-09 | [绿色算力别墅 · 四位一体商业模式报告 v1.2](reports/2026-09_绿色算力别墅_四位一体商业模式报告_v1.2.md) | **当前主版本**，合并 Draft v1.1 与西班牙版调研报告 |
+| 2026-09 | [Montgat 别墅社区光储算力项目调研分析（西班牙版）](reports/2026-09_Montgat别墅光储算力项目调研报告.md) | 四个专家组调研全文与数据来源（v1.2 的附件） |
+| 2026-09 | [对 Draft v1.1 报告的核对意见](reports/2026-09_v1.1报告核对意见.md) | v1.1 → v1.2 的修订依据 |
 
-运行模型（仅需 Python 3，无第三方依赖）：
+模型：`reports/models/model_es.py`（欧元，单栋、算力资产、10 套社区，仅需 Python 3）
 
 ```bash
 cd reports/models
 python3 model_es.py
 ```
-
-本地调研文件（01-real-estate、02-solar-storage、03-compute、04-subsidies）可放入 `reports/research/` 以便合并。
