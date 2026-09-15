@@ -1,3 +1,6 @@
+> **已作废（2026-09-15）。** 选型改为 B300、数量改为单台、地点改为 Montgat 别墅。
+> 现行版本：`2026-09-15_TDSYNNEX_B300_respuesta.md`。本文件仅作留档，勿发出。
+
 # 回复 TD SYNNEX（Efrén Figueroa）— Lenovo / NVIDIA H200 节点
 
 **来函：** Efrén Figueroa（Internal Sales Specialist Lenovo ISG, TD SYNNEX, Alcobendas Madrid），2026-09-14 18:44
